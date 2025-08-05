@@ -28,7 +28,7 @@ See folders for:
 - `images/`: Diagrams and visuals for documentation
 
 ## 📸 Demo
-*Add demo images or YouTube video links here.*
+*[Add demo images or YouTube video links here.](https://youtu.be/_lBrSzFIkqk)*
 
 ## 🚀 Future Enhancements
 - Multilingual TTS
